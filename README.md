@@ -1,2 +1,1 @@
-# ekskul-day06-html-template-mepa
-learn html
+# ekskul-day06-html-template-janzen
